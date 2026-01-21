@@ -27689,3 +27689,4 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.gamepad.prototype.cnds.OnButtonDown,
 	cr.plugins_.gamepad.prototype.cnds.IsButtonDown
 ];};
+
